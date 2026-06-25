@@ -126,13 +126,6 @@ ProjectMind/
 └── README.md
 ```
 
-## Documentation
-
-- [Backend Setup](./backend/README.md)
-- [Frontend Setup](./frontend/README.md)
-- [Architecture](./docs/ARCHITECTURE.md)
-- [API Documentation](./backend/docs/API.md)
-
 ## Development
 
 ### Backend Development
@@ -185,10 +178,6 @@ See `.github/workflows/` for configuration.
 ## License
 
 MIT
-
-## Contact
-
-Built with ❤️ as an enterprise-grade AI research platform.
 
 ---
 
